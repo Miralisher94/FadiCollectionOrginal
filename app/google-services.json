@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878550222489",
+    "firebase_url": "https://fadicollection-7ea97.firebaseio.com",
+    "project_id": "fadicollection-7ea97",
+    "storage_bucket": "fadicollection-7ea97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878550222489:android:5d0d117c3d3342531f5a08",
+        "android_client_info": {
+          "package_name": "ru.setebe.fadicollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878550222489-4mgqp41e24huks2hmh8jvvghor5m632d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.setebe.fadicollection",
+            "certificate_hash": "5f2eeeced6702e0884ac188823f97a9035fe68e6"
+          }
+        },
+        {
+          "client_id": "878550222489-gib4qqa8kcavbub17rh64kik55k2pec3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hU_Cle9w9n683qLxeeGmeuZYYbaVBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878550222489-gib4qqa8kcavbub17rh64kik55k2pec3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
